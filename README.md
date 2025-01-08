@@ -16,9 +16,6 @@ Welcome to my GitHub profile!
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git
 
-## Projects
-
-
 ## Contact Me
 
 - **Email:** [chaudharisoham041@gmail.com](mailto:chaudharisoham041@gmail.com)
