@@ -28,10 +28,10 @@ Here are some of the projects I've worked on:
 ### [Pet Care](https://github.com/soham04010/petcare.git)
 Building a Pet Care for the animals to locate the nearby services, products, free consultant etc.
 
-### [Wealth Radar](https://github.com/KrishPatel-AI/WealthRadar.git)
+### [Wealth Radar](https://github.com/soham04010/WealthRadar.git)
 Building a Money Managing web application.
 
-### [Vidya Assist](https://github.com/KrishPatel-AI/VidhyaAssist.git)
+### [Vidya Assist](https://github.com/soham04010/VidhyaAssist.git)
 Build a classrom management web for assisting students and teachers.
 
 ## 💬 Let's connect!
