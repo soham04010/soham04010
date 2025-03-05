@@ -7,7 +7,7 @@ I'm a passionate software developer with a keen interest in web development and 
 Here are some of the technologies and tools I work with:
 
 - **Languages**: JavaScript, Python, Java, C++
-- **Web Development**: React, Node.js, Express,Next Js, Tailwind CSS
+- **Development**: React, Next Js, Flutter, Node Js, Express, Tailwind CSS
 - **Databases**: MySQL, MongoDB, Firebase
 - **Tools**: Git,VS Code,Postman
 
