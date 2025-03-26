@@ -1,13 +1,13 @@
 <h1 align="center"> 
-  <img src="https://avatars.githubusercontent.com/u/your-profile-id" width="100px"><br/>
-  Soham
+  <img src="[https://avatars.githubusercontent.com/u/your-profile-id](https://github.com/account)" width="100px"><br/>
+  Soham Chaudhary
 </h1>
 <p align="center">
   🚀 I am a Competitive Programmer and Passionate Web Developer.
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/soham-chaudhary-a6b384253/))
 
 ---
 
@@ -24,6 +24,9 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 ---
 
