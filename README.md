@@ -1,41 +1,62 @@
-# Hi there, I'm Soham 👋
+<h1 align="center"> 
+  <img src="https://avatars.githubusercontent.com/u/your-profile-id" width="100px"><br/>
+  Soham
+</h1>
+<p align="center">
+  🚀 I am a Competitive Programmer and Passionate Web Developer.
+</p>
 
-I'm a passionate software developer with a keen interest in web development and open source contributions. I love to learn new technologies and apply them to solve real-world problems.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 
-## 🔧 Technologies & Tools
+---
 
-Here are some of the technologies and tools I work with:
+## 🚀 Tech Stack:
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- **Languages**: JavaScript, Python, Java, C++
-- **Development**: React, Next Js, Flutter, Node Js, Express, Tailwind CSS
-- **Databases**: MySQL, MongoDB, Firebase
-- **Tools**: Git,VS Code,Postman
+---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soham04010&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=soham04010&theme=tokyonight" />
+</p>
 
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=soham04010&show_icons=true&theme=radical)
+## 🔥 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham04010&layout=compact&theme=tokyonight"/>
+</p>
 
-## 📫 How to reach me
+---
 
-- **Email**:chaudharisoham041@gmail.com
-- **LinkedIn**: [Soham's LinkedIn](https://www.linkedin.com/in/soham04010/)
-- **Twitter**: [@soham04010](https://twitter.com/soham04010)
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=soham04010&theme=radical&margin-w=10&no-frame=true" />
+</p>
 
-## 🚀 Projects
+---
 
-Here are some of the projects I've worked on:
+## 💡 Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-### [Pet Care](https://github.com/soham04010/petcare.git)
-Building a Pet Care for the animals to locate the nearby services, products, free consultant etc.
+---
 
-### [Wealth Radar](https://github.com/soham04010/WealthRadar.git)
-Building a Money Managing web application.
+## 📌 Top Contributed Repo:
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=soham04010&theme=tokyonight"/>
+</p>
 
-### [Vidya Assist](https://github.com/soham04010/VidhyaAssist.git)
-Build a classrom management web for assisting students and teachers.
-
-## 💬 Let's connect!
-
-Feel free to reach out to me if you have any questions, want to collaborate on a project, or just want to say hi!
-
-Thanks for stopping by! 😄
+---
