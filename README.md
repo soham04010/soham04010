@@ -1,10 +1,21 @@
 <h1 align="center"> 
-  <img src="[https://avatars.githubusercontent.com/u/your-profile-id](https://github.com/account)" width="100px"><br/>
+  <img src="https://github.com/account" width="100px"><br/>
   Soham Chaudhary
 </h1>
 <p align="center">
   🚀 I am a Competitive Programmer and Passionate Web Developer.
 </p>
+
+---
+
+## 🎖️ Holopin Badges:
+<p align="center">
+  <a href="https://holopin.io/@soham04010">
+    <img src="https://holopin.me/soham04010" alt="@soham04010's Holopin badges" width="500"/>
+  </a>
+</p>
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-chaudhary-a6b384253/)
