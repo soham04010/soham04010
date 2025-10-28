@@ -1,5 +1,4 @@
 <h1 align="center"> 
-  <img src="[https://github.com/account](https://avatars.githubusercontent.com/u/153529777?s=400&u=3982044ab0eeceaef4a55bd106b6fa3bdf93f244&v=4)" width="100px"><br/>
   Soham Chaudhary
 </h1>
 <p align="center">
